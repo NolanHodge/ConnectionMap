@@ -1,3 +1,2 @@
 # ConnectionMap
-![alt text](http://imgur.com/BPyM1Xo "Connection Map")
-
+![alt text](http://i.imgur.com/BPyM1Xo.jpg "Connection Map")
