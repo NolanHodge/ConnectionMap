@@ -1,0 +1,7 @@
+/home/nolan/dev/ConnectionMap/ConnectionMap/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/nolan/dev/ConnectionMap/ConnectionMap/obj/x86/Debug/ConnectionMap.gtk-gui.gui.stetic
+/home/nolan/dev/ConnectionMap/ConnectionMap/bin/Debug/libstetic.dll
+/home/nolan/dev/ConnectionMap/ConnectionMap/bin/Debug/ConnectionMap.exe.mdb
+/home/nolan/dev/ConnectionMap/ConnectionMap/bin/Debug/ConnectionMap.exe
+/home/nolan/dev/ConnectionMap/ConnectionMap/obj/x86/Debug/ConnectionMap.exe
+/home/nolan/dev/ConnectionMap/ConnectionMap/obj/x86/Debug/ConnectionMap.exe.mdb

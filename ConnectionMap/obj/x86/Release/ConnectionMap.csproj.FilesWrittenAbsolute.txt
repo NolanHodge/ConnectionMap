@@ -1,0 +1,2 @@
+/home/nolan/dev/ConnectionMap/ConnectionMap/obj/x86/Release/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/nolan/dev/ConnectionMap/ConnectionMap/bin/Release/libstetic.dll
